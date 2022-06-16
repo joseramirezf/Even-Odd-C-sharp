@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/bin/Debug/net6.0/even-odd
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/bin/Debug/net6.0/even-odd.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/bin/Debug/net6.0/even-odd.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/bin/Debug/net6.0/even-odd.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/bin/Debug/net6.0/even-odd.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/even-odd.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/even-odd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/even-odd.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/even-odd.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/even-odd.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/even-odd.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/refint/even-odd.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/even-odd.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/even-odd.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/05 - Pares e Impares/even-odd/obj/Debug/net6.0/ref/even-odd.dll
